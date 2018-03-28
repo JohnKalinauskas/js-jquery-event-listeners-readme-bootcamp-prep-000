@@ -9,7 +9,10 @@ function getIt(){
 });
 
 $('img').on('load' ,
-function frameIt() {
+function frameIt()
+  console.log.class ("tasty")
+});
+
   
 }
 

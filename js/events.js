@@ -13,12 +13,5 @@ function frameIt()
   $( this ).tasty.
 });
   
-}
 
-function pressIt() {
-  
-}
-
-function submitIt() {
-  
 }

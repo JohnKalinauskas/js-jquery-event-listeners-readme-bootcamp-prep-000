@@ -3,13 +3,10 @@ $(document).ready(function(){
 });
 
 
-//fine a function getIt that does not accept a parameter. The function should bind a click event to the p tag. When the paragraph is clicked, the function should alert "Hey!".
-
 $('p').on ("eventname", 
 function getIt(){
   console.log("Hey");
 });
-
 
 function frameIt() {
   

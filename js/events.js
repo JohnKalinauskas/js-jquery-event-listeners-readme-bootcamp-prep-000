@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
 });
-
+//
 
 $('p').on ("eventname", 
 function getIt(){

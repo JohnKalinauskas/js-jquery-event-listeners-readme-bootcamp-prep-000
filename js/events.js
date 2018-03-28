@@ -10,7 +10,7 @@ function getIt(){
 
 $('img').on('load' ,
 function frameIt()
-  console.log.class ("tasty")
+  ("tasty")
 });
 
   
